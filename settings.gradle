@@ -1,0 +1,4 @@
+rootProject.name = 'spring-boot-saga-poc'
+include 'cloud'
+include 'config'
+include 'eureka'
